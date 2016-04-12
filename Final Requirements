@@ -1,0 +1,49 @@
+Menu Metrics Requirements
+
+
+Loading page:
+*app must be able to load the logo
+*must be able to automatically navigate to select a restaurant
+
+Restaurants near me
+*must be able to utilize geolocation to plot current location
+*must be able to display restaurants within a 5 mile radius
+*user must be able to select multiple restaurants
+*must be able to navigate to neodisplay page
+
+Meal Options to Compare
+*must be able to pull menu’s from selected restaurants
+*must be able to order by increasing/decreasing calories, total fat, carbs, proteins, sugar, sodium.
+*must be able to click menu write- up for more info
+*must be able to navigate back to restaurant selection using “menu” button
+*can only filter by one nutritional value at a time
+*must display the amount selected by filter
+
+Nutritional Facts
+*must display full nutritional facts for selected item
+*must be able to go back to meal options using “back” button
+*must be able to save meal using “save” button
+
+Save Loading page
+*display that meal has been saved
+*redirect to “restaurants near me” page (home)
+
+Saved Meals Page
+*view saved meals 
+*view date meal saved
+*order by most recent
+*click to view nutritional (back button)
+
+Menu
+*must e able to navigate to restaurants near me
+*view menus for selected restaurants
+*must be able to view past meals
+*must be able to view settings
+
+
+
+
+
+
+
+
